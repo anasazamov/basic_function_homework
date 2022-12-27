@@ -2,6 +2,7 @@
 def main(a):
 # Create function arguments a.
     a=-56
+    result=-1*a
 # Return the opposite value of a.
-    return -1*a
+    return result
 print(main(7))
